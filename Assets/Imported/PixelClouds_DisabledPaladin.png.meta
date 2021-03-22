@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d0775ab7387b8534e868089f6620aeba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7563496025065379996
+    second: PixelClouds_DisabledPaladin_0
+  - first:
+      213: 5863119279464892353
+    second: PixelClouds_DisabledPaladin_1
+  - first:
+      213: -760212146586585044
+    second: PixelClouds_DisabledPaladin_2
+  - first:
+      213: 240336442540478629
+    second: PixelClouds_DisabledPaladin_3
+  - first:
+      213: -7434133437965747090
+    second: PixelClouds_DisabledPaladin_4
+  - first:
+      213: -11262596064304294
+    second: PixelClouds_DisabledPaladin_5
+  - first:
+      213: -1158119716876926160
+    second: PixelClouds_DisabledPaladin_6
+  - first:
+      213: -4736287949920524805
+    second: PixelClouds_DisabledPaladin_7
+  - first:
+      213: 5904415910701069493
+    second: PixelClouds_DisabledPaladin_8
+  - first:
+      213: 8391798608158935851
+    second: PixelClouds_DisabledPaladin_9
+  - first:
+      213: -1668402064113479391
+    second: PixelClouds_DisabledPaladin_10
+  - first:
+      213: 4460109246116952282
+    second: PixelClouds_DisabledPaladin_11
+  - first:
+      213: -9060869790045740959
+    second: PixelClouds_DisabledPaladin_12
+  - first:
+      213: 7440984899569461564
+    second: PixelClouds_DisabledPaladin_13
+  - first:
+      213: -5772964643421166198
+    second: PixelClouds_DisabledPaladin_14
+  - first:
+      213: -796871636430002274
+    second: PixelClouds_DisabledPaladin_15
+  - first:
+      213: -4052763925578568474
+    second: PixelClouds_DisabledPaladin_16
+  - first:
+      213: 1366960591113309594
+    second: PixelClouds_DisabledPaladin_17
+  - first:
+      213: -8524422454646998990
+    second: PixelClouds_DisabledPaladin_18
+  - first:
+      213: -5364031443043299076
+    second: PixelClouds_DisabledPaladin_19
+  - first:
+      213: -5643155674726854579
+    second: PixelClouds_DisabledPaladin_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 601
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d91acf8fe6f860800000000000000
+      internalID: 7563496025065379996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 563
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7cf38abebfd5150800000000000000
+      internalID: 5863119279464892353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 460
+        width: 242
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f4c8941f2375f0800000000000000
+      internalID: -760212146586585044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 593
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0d43c98b8d55300800000000000000
+      internalID: 240336442540478629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 593
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb231a607a4d890800000000000000
+      internalID: -7434133437965747090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 458
+        width: 284
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a6528abcf7dff0800000000000000
+      internalID: -11262596064304294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 581
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cc24e0488defe0800000000000000
+      internalID: -1158119716876926160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 456
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf526071433554eb0800000000000000
+      internalID: -4736287949920524805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_8
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 460
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47083ecf2b0f150800000000000000
+      internalID: 5904415910701069493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 296
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b4ee95f58a57470800000000000000
+      internalID: 8391798608158935851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 358
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121dcf98925a8d8e0800000000000000
+      internalID: -1668402064113479391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 265
+        width: 263
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87c3a8abd75ed30800000000000000
+      internalID: 4460109246116952282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 258
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606148bee2514280800000000000000
+      internalID: -9060869790045740959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 90
+        width: 208
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3922e59750b34760800000000000000
+      internalID: 7440984899569461564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 186
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85edf74e3f42efa0800000000000000
+      internalID: -5772964643421166198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 78
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97610bf771f0f4f0800000000000000
+      internalID: -796871636430002274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 130
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec2f51aea0b1c7c0800000000000000
+      internalID: -4052763925578568474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 81
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d44474a6b68f210800000000000000
+      internalID: 1366960591113309594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 34
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f66b11fa23b980800000000000000
+      internalID: -8524422454646998990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 39
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d06982d12f85b0800000000000000
+      internalID: -5364031443043299076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelClouds_DisabledPaladin_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 28
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d401da300db7fa1b0800000000000000
+      internalID: -5643155674726854579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
